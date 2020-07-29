@@ -1,0 +1,1 @@
+PowerShell -noexit Get-Content C:\algo-trade\trade.log -Wait -Tail 10
